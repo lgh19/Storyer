@@ -1,0 +1,6 @@
+<num groups>;<num students>
+<student ID>;<group1 ID>;<group2 ID>;<groupN ID>
+
+line 1, num groups and num students
+line 2 and on is the student ID paired with their ordered list of group preferences
+until we have db ID will be the same as index
